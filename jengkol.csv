@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Gamis / Pakaian Muslim Wanita - RRZ 001 Murah,gamis-pakaian-muslim-wanita-rrz-001,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RIS 055 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-ris-055,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 001 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 001 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RRZ 001 dengan bahan CORAL SUTRA ini dijamin awet.<br/>Kode : RRZ 001<br/>Warna : BIRU<br/>Bahan : CORAL SUTRA<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RIS 055 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RIS 055<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 001 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan CORAL SUTRA, Ukuran M - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/124-rrz-001.jpg,Gamis / Pakaian Muslim Wanita - RRZ 001,Rp 131.900,RRZ 001,Baru
-Jual Gamis / Pakaian Muslim Wanita - RIS 035 Murah,gamis-pakaian-muslim-wanita-ris-035,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/111-ris-055.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RIS 055,Rp 193.400,Rp 226.900,Rp 33.500,RIS 055,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 110 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rkk-110,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 035 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 035 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RIS 035 dengan bahan DENIM ini dijamin awet.<br/>Kode : RIS 035<br/>Warna : BIRU NAVY<br/>Bahan : DENIM<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 110 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON STRETCH.<br/>Kode : RKK 110<br/>Warna : COKLAT<br/>Bahan : COTTON STRETCH<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 035 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan DENIM, Ukuran M - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/125-ris-035.jpg,Gamis / Pakaian Muslim Wanita - RIS 035,Rp 184.400,RIS 035,Baru
-Jual Gamis / Pakaian Muslim Wanita - ROK 027 Murah,gamis-pakaian-muslim-wanita-rok-027,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON STRETCH, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/112-rkk-110.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 110,Rp 215.400,Rp 252.900,Rp 37.500,RKK 110,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 033 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rok-033,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 027 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 027 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - ROK 027 dengan bahan WOLL PEACH ini dijamin awet.<br/>Kode : ROK 027<br/>Warna : PINK<br/>Bahan : WOLL PEACH<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 033 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON STRETCH.<br/>Kode : ROK 033<br/>Warna : BIRU<br/>Bahan : COTTON STRETCH<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 027 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan WOLL PEACH, Ukuran S - XL, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/126-rok-027.jpg,Gamis / Pakaian Muslim Wanita - ROK 027,Rp 138.400,ROK 027,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKK 079 Murah,gamis-pakaian-muslim-wanita-rkk-079,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON STRETCH, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/113-rok-033.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 033,Rp 200.900,Rp 235.900,Rp 35.000,ROK 033,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNH 010 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rnh-010,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 079 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 079 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKK 079 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RKK 079<br/>Warna : ABU ABU<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNH 010 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RNH 010<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +254,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 079 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan SPANDEX, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/127-rkk-079.jpg,Gamis / Pakaian Muslim Wanita - RKK 079,Rp 163.400,RKK 079,Baru
-Jual Gamis / Pakaian Muslim Wanita - RSG 022 Murah,gamis-pakaian-muslim-wanita-rsg-022,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/114-rnh-010.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNH 010,Rp 173.900,Rp 203.900,Rp 30.000,RNH 010,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 004 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rrz-004,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +280,7 @@ Jual Gamis / Pakaian Muslim Wanita - RSG 022 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,7 +303,7 @@ Jual Gamis / Pakaian Muslim Wanita - RSG 022 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RSG 022 dengan bahan COTTON ini dijamin awet.<br/>Kode : RSG 022<br/>Warna : HITAM KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 004 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RRZ 004<br/>Warna : CREAM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,8 +318,8 @@ Jual Gamis / Pakaian Muslim Wanita - RSG 022 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/128-rsg-022.jpg,Gamis / Pakaian Muslim Wanita - RSG 022,Rp 184.400,RSG 022,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKA 006 Murah,gamis-pakaian-muslim-wanita-rka-006,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/115-rrz-004.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 004,Rp 145.900,Rp 170.900,Rp 25.000,RRZ 004,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 040 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rng-040,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +344,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 006 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,7 +367,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 006 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKA 006 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKA 006<br/>Warna : MOKA<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 040 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RNG 040<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -376,8 +382,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 006 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna MOKA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/129-rka-006.jpg,Gamis / Pakaian Muslim Wanita - RKA 006,Rp 191.400,RKA 006,Baru
-Jual Gamis / Pakaian Muslim Wanita - RRZ 004 Murah,gamis-pakaian-muslim-wanita-rrz-004,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/116-rng-040.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 040,Rp 173.900,Rp 203.900,Rp 30.000,RNG 040,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 031 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rok-031,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -402,6 +408,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 004 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -424,7 +431,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 004 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RRZ 004 dengan bahan COTTON ini dijamin awet.<br/>Kode : RRZ 004<br/>Warna : CREAM<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 031 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : ROK 031<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -439,8 +446,8 @@ Jual Gamis / Pakaian Muslim Wanita - RRZ 004 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran M - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/130-rrz-004.jpg,Gamis / Pakaian Muslim Wanita - RRZ 004,Rp 145.900,RRZ 004,Baru
-Jual Gamis / Pakaian Muslim Wanita - RMZ 003 Murah,gamis-pakaian-muslim-wanita-rmz-003,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/117-rok-031.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 031,Rp 192.900,Rp 225.900,Rp 33.000,ROK 031,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 012 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rka-012,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -465,6 +472,7 @@ Jual Gamis / Pakaian Muslim Wanita - RMZ 003 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -487,7 +495,7 @@ Jual Gamis / Pakaian Muslim Wanita - RMZ 003 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RMZ 003 dengan bahan COTTON ini dijamin awet.<br/>Kode : RMZ 003<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 012 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RKA 012<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -502,8 +510,8 @@ Jual Gamis / Pakaian Muslim Wanita - RMZ 003 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran M - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/131-rmz-003.jpg,Gamis / Pakaian Muslim Wanita - RMZ 003,Rp 184.400,RMZ 003,Baru
-Jual Gamis / Pakaian Muslim Wanita - RNH 010 Murah,gamis-pakaian-muslim-wanita-rnh-010,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/118-rka-012.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 012,Rp 173.900,Rp 203.900,Rp 30.000,RKA 012,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 052 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rbv-052,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -528,6 +536,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 010 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -550,7 +559,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 010 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RNH 010 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNH 010<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 052 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan CANVAS.<br/>Kode : RBV 052<br/>Warna : CREAM<br/>Bahan : CANVAS<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = CANVAS CIGARET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -565,8 +574,8 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 010 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/132-rnh-010.jpg,Gamis / Pakaian Muslim Wanita - RNH 010,Rp 173.900,RNH 010,Baru
-Jual Gamis / Pakaian Muslim Wanita - RRY 004 Murah,gamis-pakaian-muslim-wanita-rry-004,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan CANVAS, Ukuran S - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/119-rbv-052.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 052,Rp 189.400,Rp 221.900,Rp 32.500,RBV 052,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 002 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rmz-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -591,6 +600,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 004 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -613,7 +623,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 004 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RRY 004 dengan bahan VELVET ini dijamin awet.<br/>Kode : RRY 004<br/>Warna : BIRU NAVY<br/>Bahan : VELVET<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 002 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RMZ 002<br/>Warna : CREAM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = BAHAN : COTTON BALOTELY<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -628,8 +638,8 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 004 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan VELVET, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/133-rry-004.jpg,Gamis / Pakaian Muslim Wanita - RRY 004,Rp 121.400,RRY 004,Baru
-Jual Gamis / Pakaian Muslim Wanita - ROK 031 Murah,gamis-pakaian-muslim-wanita-rok-031,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/120-rmz-002.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 002,Rp 200.900,Rp 235.900,Rp 35.000,RMZ 002,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 016 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rwh-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -654,6 +664,7 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 031 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -676,7 +687,7 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 031 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - ROK 031 dengan bahan COTTON ini dijamin awet.<br/>Kode : ROK 031<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 016 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RWH 016<br/>Warna : MERAH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = BAHAN : COTTON BALOTELY<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -691,8 +702,8 @@ Jual Gamis / Pakaian Muslim Wanita - ROK 031 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/134-rok-031.jpg,Gamis / Pakaian Muslim Wanita - ROK 031,Rp 192.900,ROK 031,Baru
-Jual Gamis / Pakaian Muslim Wanita - RDD 045 Murah,gamis-pakaian-muslim-wanita-rdd-045,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/121-rwh-016.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 016,Rp 197.400,Rp 230.900,Rp 33.500,RWH 016,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 115 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rkk-115,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -717,6 +728,7 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 045 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -739,7 +751,7 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 045 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RDD 045 dengan bahan DENIM ini dijamin awet.<br/>Kode : RDD 045<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 115 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON STRETCH.<br/>Kode : RKK 115<br/>Warna : ABU ABU<br/>Bahan : COTTON STRETCH<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -754,8 +766,8 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 045 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/135-rdd-045.jpg,Gamis / Pakaian Muslim Wanita - RDD 045,Rp 196.400,RDD 045,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKA 012 Murah,gamis-pakaian-muslim-wanita-rka-012,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON STRETCH, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/122-rkk-115.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKK 115,Rp 182.900,Rp 213.900,Rp 31.000,RKK 115,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 027 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rok-027,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -780,6 +792,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 012 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -802,7 +815,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 012 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKA 012 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKA 012<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 027 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan WOLL PEACH.<br/>Kode : ROK 027<br/>Warna : PINK<br/>Bahan : WOLL PEACH<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -817,8 +830,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKA 012 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/136-rka-012.jpg,Gamis / Pakaian Muslim Wanita - RKA 012,Rp 173.900,RKA 012,Baru
-Jual Gamis / Pakaian Muslim Wanita - RNG 040 Murah,gamis-pakaian-muslim-wanita-rng-040,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan WOLL PEACH, Ukuran S - XL, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/123-rok-027.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - ROK 027,Rp 138.400,Rp 161.900,Rp 23.500,ROK 027,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 001 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rrz-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -843,6 +856,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 040 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -865,7 +879,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 040 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RNG 040 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNG 040<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan CORAL SUTRA.<br/>Kode : RRZ 001<br/>Warna : BIRU<br/>Bahan : CORAL SUTRA<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -880,8 +894,8 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 040 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran M - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/137-rng-040.jpg,Gamis / Pakaian Muslim Wanita - RNG 040,Rp 173.900,RNG 040,Baru
-Jual Gamis / Pakaian Muslim Wanita - RBV 055 Murah,gamis-pakaian-muslim-wanita-rbv-055,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan CORAL SUTRA, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/124-rrz-001.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRZ 001,Rp 131.900,Rp 154.900,Rp 23.000,RRZ 001,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 006 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rka-006,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -906,6 +920,7 @@ Jual Gamis / Pakaian Muslim Wanita - RBV 055 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -928,7 +943,7 @@ Jual Gamis / Pakaian Muslim Wanita - RBV 055 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RBV 055 dengan bahan COTTON ini dijamin awet.<br/>Kode : RBV 055<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 006 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RKA 006<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -943,8 +958,8 @@ Jual Gamis / Pakaian Muslim Wanita - RBV 055 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/138-rbv-055.jpg,Gamis / Pakaian Muslim Wanita - RBV 055,Rp 163.400,RBV 055,Baru
-Jual Gamis / Pakaian Muslim Wanita - RWH 011 Murah,gamis-pakaian-muslim-wanita-rwh-011,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/125-rka-006.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RKA 006,Rp 191.400,Rp 223.900,Rp 32.500,RKA 006,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRY 004 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rry-004,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -969,6 +984,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 011 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -991,7 +1007,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 011 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RWH 011 dengan bahan RAYON ini dijamin awet.<br/>Kode : RWH 011<br/>Warna : HITAM<br/>Bahan : RAYON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRY 004 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan VELVET.<br/>Kode : RRY 004<br/>Warna : BIRU NAVY<br/>Bahan : VELVET<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1006,8 +1022,8 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 011 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan RAYON, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/139-rwh-011.jpg,Gamis / Pakaian Muslim Wanita - RWH 011,Rp 184.400,RWH 011,Baru
-Jual Gamis / Pakaian Muslim Wanita - RDD 051 Murah,gamis-pakaian-muslim-wanita-rdd-051,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan VELVET, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/126-rry-004.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RRY 004,Rp 121.400,Rp 142.900,Rp 21.500,RRY 004,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RGS 066 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rgs-066,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1032,6 +1048,7 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 051 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1054,7 +1071,7 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 051 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RDD 051 dengan bahan COTTON ini dijamin awet.<br/>Kode : RDD 051<br/>Warna : ABU MISTY<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RGS 066 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RGS 066<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = BAHAN : COTTON SUPER NOVA<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1069,8 +1086,8 @@ Jual Gamis / Pakaian Muslim Wanita - RDD 051 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU MISTY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/140-rdd-051.jpg,Gamis / Pakaian Muslim Wanita - RDD 051,Rp 201.900,RDD 051,Baru
-Jual Gamis / Pakaian Muslim Wanita - RIS 045 Murah,gamis-pakaian-muslim-wanita-ris-045,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/127-rgs-066.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RGS 066,Rp 189.900,Rp 222.900,Rp 33.000,RGS 066,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDD 058 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rdd-058,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1095,6 +1112,7 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 045 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1117,7 +1135,7 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 045 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RIS 045 dengan bahan COTTON ini dijamin awet.<br/>Kode : RIS 045<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDD 058 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RDD 058<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1132,8 +1150,8 @@ Jual Gamis / Pakaian Muslim Wanita - RIS 045 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran M - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/141-ris-045.jpg,Gamis / Pakaian Muslim Wanita - RIS 045,Rp 194.900,RIS 045,Baru
-Jual Gamis / Pakaian Muslim Wanita - RWH 004 Murah,gamis-pakaian-muslim-wanita-rwh-004,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/128-rdd-058.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDD 058,Rp 142.900,Rp 167.900,Rp 25.000,RDD 058,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 018 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rwh-018,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1158,6 +1176,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 004 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1180,7 +1199,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 004 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RWH 004 dengan bahan RAYON ini dijamin awet.<br/>Kode : RWH 004<br/>Warna : MERAH<br/>Bahan : RAYON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 018 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RWH 018<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1195,8 +1214,8 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 004 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan RAYON, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/142-rwh-004.jpg,Gamis / Pakaian Muslim Wanita - RWH 004,Rp 184.400,RWH 004,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKK 099 Murah,gamis-pakaian-muslim-wanita-rkk-099,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/129-rwh-018.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RWH 018,Rp 193.400,Rp 226.900,Rp 33.500,RWH 018,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 079 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rln-079,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1221,6 +1240,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 099 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1243,7 +1263,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 099 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKK 099 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RKK 099<br/>Warna : ABU KOMBINASI<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 079 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan HICON.<br/>Kode : RLN 079<br/>Warna : BIRU<br/>Bahan : HICON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1258,8 +1278,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 099 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan SPANDEX, Ukuran S - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/143-rkk-099.jpg,Gamis / Pakaian Muslim Wanita - RKK 099,Rp 166.900,RKK 099,Baru
-Jual Gamis / Pakaian Muslim Wanita - RRY 003 Murah,gamis-pakaian-muslim-wanita-rry-003,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan HICON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/130-rln-079.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 079,Rp 212.400,Rp 248.900,Rp 36.500,RLN 079,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 064 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rln-064,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1284,6 +1304,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 003 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1306,7 +1327,7 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 003 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RRY 003 dengan bahan COTTON ini dijamin awet.<br/>Kode : RRY 003<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 064 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan HICON.<br/>Kode : RLN 064<br/>Warna : BIRU KOMBINASI<br/>Bahan : HICON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1321,8 +1342,8 @@ Jual Gamis / Pakaian Muslim Wanita - RRY 003 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/144-rry-003.jpg,Gamis / Pakaian Muslim Wanita - RRY 003,Rp 131.400,RRY 003,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKO 021 Murah,gamis-pakaian-muslim-wanita-rko-021,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan HICON, Ukuran S - XL, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/131-rln-064.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RLN 064,Rp 205.400,Rp 240.900,Rp 35.500,RLN 064,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 039 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rng-039,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1347,6 +1368,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKO 021 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1369,7 +1391,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKO 021 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKO 021 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKO 021<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 039 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RNG 039<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1384,8 +1406,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKO 021 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/145-rko-021.jpg,Gamis / Pakaian Muslim Wanita - RKO 021,Rp 127.400,RKO 021,Baru
-Jual Gamis / Pakaian Muslim Wanita - RNH 011 Murah,gamis-pakaian-muslim-wanita-rnh-011,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/132-rng-039.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNG 039,Rp 170.400,Rp 199.900,Rp 29.500,RNG 039,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 003 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rmz-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1410,6 +1432,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 011 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1432,7 +1455,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 011 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RNH 011 dengan bahan DENIM ini dijamin awet.<br/>Kode : RNH 011<br/>Warna : BIRU KOMBINASI<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 003 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RMZ 003<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1447,8 +1470,8 @@ Jual Gamis / Pakaian Muslim Wanita - RNH 011 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan DENIM, Ukuran S - XL, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/146-rnh-011.jpg,Gamis / Pakaian Muslim Wanita - RNH 011,Rp 181.900,RNH 011,Baru
-Jual Gamis / Pakaian Muslim Wanita - RWH 006 Murah,gamis-pakaian-muslim-wanita-rwh-006,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/133-rmz-003.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RMZ 003,Rp 184.400,Rp 215.900,Rp 31.500,RMZ 003,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDH 051 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rdh-051,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1473,6 +1496,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 006 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1495,7 +1519,7 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 006 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RWH 006 dengan bahan COTTON ini dijamin awet.<br/>Kode : RWH 006<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDH 051 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan WOLL PEACH.<br/>Kode : RDH 051<br/>Warna : BIRU<br/>Bahan : WOLL PEACH<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1510,8 +1534,8 @@ Jual Gamis / Pakaian Muslim Wanita - RWH 006 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/147-rwh-006.jpg,Gamis / Pakaian Muslim Wanita - RWH 006,Rp 184.400,RWH 006,Baru
-Jual Gamis / Pakaian Muslim Wanita - RLN 064 Murah,gamis-pakaian-muslim-wanita-rln-064,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan WOLL PEACH, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/134-rdh-051.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RDH 051,Rp 215.400,Rp 252.900,Rp 37.500,RDH 051,Baru
+"Jual Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RRY 003 Murah",gamis-long-dress-wanita-(tanpa-kerudung-manset-legging)-rry-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1536,6 +1560,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 064 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1558,7 +1583,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 064 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RLN 064 dengan bahan HICON ini dijamin awet.<br/>Kode : RLN 064<br/>Warna : BIRU KOMBINASI<br/>Bahan : HICON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RRY 003 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RRY 003<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1573,8 +1598,8 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 064 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan HICON, Ukuran S - XL, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/148-rln-064.jpg,Gamis / Pakaian Muslim Wanita - RLN 064,Rp 205.400,RLN 064,Baru
-Jual Gamis / Pakaian Muslim Wanita - RLN 079 Murah,gamis-pakaian-muslim-wanita-rln-079,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/135-rry-003.jpg,/,/,/,/,/,"Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RRY 003",Rp 131.400,Rp 153.900,Rp 22.500,RRY 003,Baru
+"Jual Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RWH 006 Murah",gamis-long-dress-wanita-(tanpa-kerudung-manset-legging)-rwh-006,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1599,6 +1624,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 079 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1621,7 +1647,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 079 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RLN 079 dengan bahan HICON ini dijamin awet.<br/>Kode : RLN 079<br/>Warna : UNGU<br/>Bahan : HICON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RWH 006 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RWH 006<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1636,8 +1662,8 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 079 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan HICON, Ukuran S - XL, Warna UNGU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/149-rln-079.jpg,Gamis / Pakaian Muslim Wanita - RLN 079,Rp 212.400,RLN 079,Baru
-Jual Gamis / Pakaian Muslim Wanita - RKK 025 Murah,gamis-pakaian-muslim-wanita-rkk-025,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/136-rwh-006.jpg,/,/,/,/,/,"Gamis / Long Dress Wanita (Tanpa Kerudung, Manset & Legging) - RWH 006",Rp 184.400,Rp 215.900,Rp 31.500,RWH 006,Baru
+"Jual Gamis / Long Dress Wanita (Tanpa Kerudung, Legging) - ROK 040 Murah",gamis-long-dress-wanita-(tanpa-kerudung-legging)-rok-040,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1662,6 +1688,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 025 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1684,7 +1711,7 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 025 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RKK 025 dengan bahan HICON ini dijamin awet.<br/>Kode : RKK 025<br/>Warna : MERAH<br/>Bahan : HICON<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Wanita (Tanpa Kerudung, Legging) - ROK 040 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : ROK 040<br/>Warna : PINK<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = - LEGGING, KERUDUNG, BAHAN : COTTON BALOTELY<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1699,8 +1726,8 @@ Jual Gamis / Pakaian Muslim Wanita - RKK 025 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan HICON, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/150-rkk-025.jpg,Gamis / Pakaian Muslim Wanita - RKK 025,Rp 198.400,RKK 025,Baru
-Jual Gamis / Pakaian Muslim Wanita - RNG 039 Murah,gamis-pakaian-muslim-wanita-rng-039,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/137-rok-040.jpg,/,/,/,/,/,"Gamis / Long Dress Wanita (Tanpa Kerudung, Legging) - ROK 040",Rp 154.400,Rp 180.900,Rp 26.500,ROK 040,Baru
+"Jual Gamis / Long Dress Wanita (Tanpa Kerudung, Manset ) - RDD 056 Murah",gamis-long-dress-wanita-(tanpa-kerudung-manset-)-rdd-056,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1725,6 +1752,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 039 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1747,7 +1775,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 039 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RNG 039 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNG 039<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Wanita (Tanpa Kerudung, Manset ) - RDD 056 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RDD 056<br/>Warna : MARUN<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = - MANSET, KERUDUNG<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1762,8 +1790,8 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 039 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran M - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/151-rng-039.jpg,Gamis / Pakaian Muslim Wanita - RNG 039,Rp 170.400,RNG 039,Baru
-Jual Gamis / Pakaian Muslim Wanita - RNG 029 Murah,gamis-pakaian-muslim-wanita-rng-029,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/138-rdd-056.jpg,/,/,/,/,/,"Gamis / Long Dress Wanita (Tanpa Kerudung, Manset ) - RDD 056",Rp 142.900,Rp 167.900,Rp 25.000,RDD 056,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - ROK 021 Murah,gamis-long-dress-busana-muslim-wanita-(kerudung-+-tunik)-rok-021,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1788,6 +1816,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 029 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1810,7 +1839,7 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 029 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RNG 029 dengan bahan SERUTI ini dijamin awet.<br/>Kode : RNG 029<br/>Warna : HITAM<br/>Bahan : SERUTI<br/>Ukuran : M - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - ROK 021 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan JERSEY.<br/>Kode : ROK 021<br/>Warna : MERAH BATA<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = + KERUDUNG<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1825,8 +1854,8 @@ Jual Gamis / Pakaian Muslim Wanita - RNG 029 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan SERUTI, Ukuran M - XL, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/152-rng-029.jpg,Gamis / Pakaian Muslim Wanita - RNG 029,Rp 208.400,RNG 029,Baru
-Jual Gamis / Pakaian Muslim Wanita - RLN 081 Murah,gamis-pakaian-muslim-wanita-rln-081,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna MERAH BATA",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/139-rok-021.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - ROK 021,Rp 229.400,Rp 268.900,Rp 39.500,ROK 021,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RSG 025 Murah,gamis-long-dress-busana-muslim-wanita-(kerudung-+-tunik)-rsg-025,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1851,6 +1880,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 081 Murah,gamis-pakaian-muslim-wanita-r
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1873,7 +1903,7 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 081 Murah,gamis-pakaian-muslim-wanita-r
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita - RLN 081 dengan bahan WOLL PEACH ini dijamin awet.<br/>Kode : RLN 081<br/>Warna : ABU HITAM<br/>Bahan : WOLL PEACH<br/>Ukuran : S - XL<br/>Berat : 0.75 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RSG 025 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan PE SINGLE.<br/>Kode : RSG 025<br/>Warna : PINK<br/>Bahan : PE SINGLE<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = + KERUDUNG<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1888,8 +1918,8 @@ Jual Gamis / Pakaian Muslim Wanita - RLN 081 Murah,gamis-pakaian-muslim-wanita-r
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan WOLL PEACH, Ukuran S - XL, Warna ABU HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/153-rln-081.jpg,Gamis / Pakaian Muslim Wanita - RLN 081,Rp 163.400,RLN 081,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rok-021,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan PE SINGLE, Ukuran S - XL, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/140-rsg-025.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RSG 025,Rp 240.400,Rp 281.900,Rp 41.500,RSG 025,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RNK 026 Murah,gamis-long-dress-busana-muslim-wanita-(kerudung-+-tunik)-rnk-026,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1914,6 +1944,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021 Murah,gamis-pakaian-musl
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1936,7 +1967,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021 Murah,gamis-pakaian-musl
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021 dengan bahan JERSEY ini dijamin awet.<br/>Kode : ROK 021<br/>Warna : MERAH BATA<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RNK 026 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan JERSEY.<br/>Kode : RNK 026<br/>Warna : PINK ABU<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = + KERUDUNG<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1951,8 +1982,8 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021 Murah,gamis-pakaian-musl
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna MERAH BATA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/154-rok-021.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - ROK 021,Rp 229.400,ROK 021,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rsg-028,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna PINK ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/141-rnk-026.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RNK 026,Rp 240.400,Rp 281.900,Rp 41.500,RNK 026,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RDG 079 Murah,gamis-long-dress-busana-muslim-wanita-(kerudung-+-tunik)-rdg-079,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1977,6 +2008,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028 Murah,gamis-pakaian-musl
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1999,7 +2031,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028 Murah,gamis-pakaian-musl
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028 dengan bahan JERSEY ini dijamin awet.<br/>Kode : RSG 028<br/>Warna : BIRU NAVY<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RDG 079 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RDG 079<br/>Warna : MERAH KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = + KERUDUNG<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2014,8 +2046,8 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028 Murah,gamis-pakaian-musl
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/155-rsg-028.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RSG 028,Rp 222.900,RSG 028,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rsg-025,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/142-rdg-079.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Kerudung + Tunik) - RDG 079,Rp 212.400,Rp 248.900,Rp 36.500,RDG 079,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 049 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rbv-049,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2040,6 +2072,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025 Murah,gamis-pakaian-musl
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -2062,7 +2095,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025 Murah,gamis-pakaian-musl
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025 dengan bahan PE SINGLE ini dijamin awet.<br/>Kode : RSG 025<br/>Warna : PINK<br/>Bahan : PE SINGLE<br/>Ukuran : M - XL<br/>Berat : 1 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 049 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RBV 049<br/>Warna : SALEM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2077,8 +2110,8 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025 Murah,gamis-pakaian-musl
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan PE SINGLE, Ukuran M - XL, Warna PINK",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/156-rsg-025.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RSG 025,Rp 240.400,RSG 025,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rok-028,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna SALEM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/143-rbv-049.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RBV 049,Rp 215.900,Rp 252.900,Rp 37.000,RBV 049,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 130 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rny-130,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2103,6 +2136,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028 Murah,gamis-pakaian-musl
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -2125,7 +2159,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028 Murah,gamis-pakaian-musl
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028 dengan bahan JERSEY ini dijamin awet.<br/>Kode : ROK 028<br/>Warna : MERAH<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 130 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RNY 130<br/>Warna : COKLAT KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = - KERUDUNG, BAHAN : POPLIN<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2140,8 +2174,8 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028 Murah,gamis-pakaian-musl
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/157-rok-028.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - ROK 028,Rp 222.400,ROK 028,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rrz-002,"
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/144-rny-130.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 130,Rp 178.900,Rp 209.900,Rp 31.000,RNY 130,Baru
+Jual Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 124 Murah,gamis-long-dress-busana-muslim-wanita-(tanpa-kerudung)-rny-124,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2166,6 +2200,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002 Murah,gamis-pakaian-musl
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -2188,7 +2223,7 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002 Murah,gamis-pakaian-musl
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RRZ 002<br/>Warna : MERAH BATA<br/>Bahan : SPANDEX<br/>Ukuran : M - XL<br/>Berat : 1 kg<br>
+         <p>Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 124 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Wanita ini terbuat dari bahan COTTON.<br/>Kode : RNY 124<br/>Warna : CREAM KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2203,823 +2238,4 @@ Jual Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002 Murah,gamis-pakaian-musl
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan SPANDEX, Ukuran M - XL, Warna MERAH BATA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/158-rrz-002.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RRZ 002,Rp 142.400,RRZ 002,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - ROK 007 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rok-007,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - ROK 007 dengan bahan JERSEY ini dijamin awet.<br/>Kode : ROK 007<br/>Warna : MERAH<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/159-rok-007.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - ROK 007,Rp 184.400,ROK 007,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RNK 026 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rnk-026,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RNK 026 dengan bahan JERSEY ini dijamin awet.<br/>Kode : RNK 026<br/>Warna : PINK ABU<br/>Bahan : JERSEY<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan JERSEY, Ukuran S - XL, Warna PINK ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/160-rnk-026.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RNK 026,Rp 240.400,RNK 026,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RDG 079 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rdg-079,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RDG 079 dengan bahan COTTON ini dijamin awet.<br/>Kode : RDG 079<br/>Warna : MERAH KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/161-rdg-079.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RDG 079,Rp 212.400,RDG 079,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RBV 049 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rbv-049,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RBV 049 dengan bahan COTTON ini dijamin awet.<br/>Kode : RBV 049<br/>Warna : SALEM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna SALEM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/162-rbv-049.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RBV 049,Rp 215.900,RBV 049,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RNY 124 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rny-124,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RNY 124 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNY 124<br/>Warna : CREAM KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna CREAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/163-rny-124.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RNY 124,Rp 173.900,RNY 124,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RDG 078 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rdg-078,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RDG 078 dengan bahan COTTON ini dijamin awet.<br/>Kode : RDG 078<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/164-rdg-078.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RDG 078,Rp 192.900,RDG 078,Baru
-Jual Gamis / Pakaian Muslim Wanita + Kerudung - RKK 012 Murah,gamis-pakaian-muslim-wanita-+-kerudung-rkk-012,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Gamis / Pakaian Muslim Wanita + Kerudung - RKK 012 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RKK 012<br/>Warna : MARUN<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan SPANDEX, Ukuran S - XL, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/165-rkk-012.jpg,Gamis / Pakaian Muslim Wanita + Kerudung - RKK 012,Rp 142.400,RKK 012,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 053 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-053,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 053 dengan bahan COTTON KELLY ini dijamin awet.<br/>Kode : RGS 053<br/>Warna : PUTIH<br/>Bahan : COTTON KELLY<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON KELLY, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/169-rgs-053.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 053,Rp 138.400,RGS 053,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 006 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-006,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 006 dengan bahan COTTON ini dijamin awet.<br/>Kode : RGS 006<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/171-rgs-006.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 006,Rp 138.400,RGS 006,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 057 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-057,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 057 dengan bahan COTTON ini dijamin awet.<br/>Kode : RGS 057<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/173-rgs-057.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 057,Rp 142.400,RGS 057,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 047 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-047,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 047 dengan bahan COTTON ini dijamin awet.<br/>Kode : RGS 047<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/174-rgs-047.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 047,Rp 198.400,RGS 047,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 039 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-039,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 039 dengan bahan COTTON ini dijamin awet.<br/>Kode : RGS 039<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/177-rgs-039.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 039,Rp 198.400,RGS 039,Baru
-Jual Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 049 Murah,pakaian-muslim-baju-koko-wanita-muslim-sarimbit-rgs-049,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Pakaian Muslim Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 049 dengan bahan COTTON ini dijamin awet.<br/>Kode : RGS 049<br/>Warna : HITAM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.7 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/178-rgs-049.jpg,Pakaian Muslim / Baju Koko Wanita / Muslim Sarimbit - RGS 049,Rp 198.400,RGS 049,Baru
+     </div><!--/category-tab-->",2017-10-17,html,pakaian-muslim-wanita,raindoz,pakaian-muslim-wanita,raindoz,"Pakaian Muslim Wanita Bahan COTTON, Ukuran S - XL, Warna CREAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/145-rny-124.jpg,/,/,/,/,/,Gamis / Long Dress Busana Muslim Wanita (Tanpa Kerudung) - RNY 124,Rp 173.900,Rp 203.900,Rp 30.000,RNY 124,Baru
